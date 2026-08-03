@@ -23,15 +23,11 @@ Rule Enforcement & Entropy Check:
  💻 How to Run
  
  1. Prerequisites
- 2. 
 Make sure you have **Python 3.x** installed on your system. No external libraries are required (uses standard built-in modules).
 
  3. Execution
-    
-Open your terminal or command prompt, navigate to the project directory, and run:
-
+    Open your terminal or command prompt, navigate to the project directory, and run:
 bash
-
 python password_checker.py
 
 5. Usage Example
