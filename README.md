@@ -22,10 +22,16 @@ bash
 python password_checker.py
 3. Usage Example
 Enter any password when prompted.
+
 View the strength evaluation score (Weak 🔴, Medium 🟡, or Strong 🟢).
+
 Type Y to evaluate another password, or N to exit the program.
+
 🛠️ Tech Stack & Skills
 Language: Python 3
+
 Core Concepts: Defensive Logic, Data Validation, String Handling, Time Complexity Optimization.
+
 Author: Nisha Noor
+
 Track: @ DecodeLabs
