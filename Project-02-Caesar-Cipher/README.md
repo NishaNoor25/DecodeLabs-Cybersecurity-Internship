@@ -1,8 +1,3 @@
-Is waja se hota hai kyunki Markdown content simple plain text editor mein paste karte waqt line breaks remove ho jaate hain.
-
-Ab main ne **double line spacing aur extra formatting** ke saath Likha hai taake jab aap isay copy-paste karein, toh har point bilkul **alag line** par aaye aur perfectly organized dikhe:
-
----
 
 # 🛡️ Project 2: Basic Encryption & Decryption Engine (Caesar Cipher)
 
@@ -27,12 +22,12 @@ By applying modular arithmetic (% 26) and integer ASCII mapping (`ord()` / `chr(
 * **Character Case & Edge Case Preservation:** Preserves Uppercase (A-Z), Lowercase (a-z), spaces, numbers, and special symbols without altering structural context.
 * **Interactive CLI Workflows:** Features continuous user loop handling and full mathematical reversal checks for complete verification.
 
----
+
 
 ## 💻 How to Run
 
 1. **Clone or Download the Repository:**
-git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://www.google.com/search?q=https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+git clone [https://github.com/NishaNoor25/DecodeLabs-Cybersecurity-Internship.git](https://www.google.com/search?q=https://github.com/NishaNoor25/DecodeLabs-Cybersecurity-Internship.git)
 2. **Navigate to Project 2 Folder:**
 cd DecodeLabs-Cybersecurity-Internship/Project-02-Caesar-Cipher
 3. **Execute the Python Script:**
@@ -40,7 +35,6 @@ python caesar_cipher.py
 4. **Follow On-Screen Execution Prompts:**
 Choose your preferred option (1 for Encryption, 2 for Decryption, 3 for Demonstration) and enter your custom shift key when prompted.
 
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -49,14 +43,10 @@ Choose your preferred option (1 for Encryption, 2 for Decryption, 3 for Demonstr
 
 
 
----
+
 
 **Author:** Nisha Noor
 
 **Track:** Junior Cybersecurity Analyst @ DecodeLabs
 
----
 
-### 💡 Pro Tip (GitHub Editor Mein Copy-Paste Karne Ke Liye):
-
-Jab aap GitHub par `README.md` Edit Box mein ise paste karein, toh simple **CTRL + V** se paste karein. Extra spaces hone ki waja se ab har line alag aur clean nazar aaye gi!
